@@ -1,0 +1,14 @@
+C:\Users\abhi\source\repos\taritas\taritas\bin\Debug\netcoreapp2.1\taritas.deps.json
+C:\Users\abhi\source\repos\taritas\taritas\bin\Debug\netcoreapp2.1\taritas.runtimeconfig.json
+C:\Users\abhi\source\repos\taritas\taritas\bin\Debug\netcoreapp2.1\taritas.runtimeconfig.dev.json
+C:\Users\abhi\source\repos\taritas\taritas\bin\Debug\netcoreapp2.1\taritas.dll
+C:\Users\abhi\source\repos\taritas\taritas\bin\Debug\netcoreapp2.1\taritas.pdb
+C:\Users\abhi\source\repos\taritas\taritas\obj\Debug\netcoreapp2.1\taritas.csprojAssemblyReference.cache
+C:\Users\abhi\source\repos\taritas\taritas\obj\Debug\netcoreapp2.1\taritas.csproj.CoreCompileInputs.cache
+C:\Users\abhi\source\repos\taritas\taritas\obj\Debug\netcoreapp2.1\taritas.RazorAssemblyInfo.cache
+C:\Users\abhi\source\repos\taritas\taritas\obj\Debug\netcoreapp2.1\taritas.RazorAssemblyInfo.cs
+C:\Users\abhi\source\repos\taritas\taritas\obj\Debug\netcoreapp2.1\taritas.AssemblyInfoInputs.cache
+C:\Users\abhi\source\repos\taritas\taritas\obj\Debug\netcoreapp2.1\taritas.AssemblyInfo.cs
+C:\Users\abhi\source\repos\taritas\taritas\obj\Debug\netcoreapp2.1\taritas.RazorTargetAssemblyInfo.cache
+C:\Users\abhi\source\repos\taritas\taritas\obj\Debug\netcoreapp2.1\taritas.dll
+C:\Users\abhi\source\repos\taritas\taritas\obj\Debug\netcoreapp2.1\taritas.pdb

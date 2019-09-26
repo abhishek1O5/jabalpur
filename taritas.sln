@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taritas", "taritas\taritas.csproj", "{2DC4B0BA-9AD5-49D6-AFC5-24AEA2AAB41C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "websiteOne", "websiteOne\websiteOne.csproj", "{C519610B-93F8-437C-843A-CA7CB9CDDAA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "websitetwo", "websitetwo\websitetwo.csproj", "{9F0400A5-24EA-4337-B4BC-4CB91FA67A06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DC4B0BA-9AD5-49D6-AFC5-24AEA2AAB41C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC4B0BA-9AD5-49D6-AFC5-24AEA2AAB41C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC4B0BA-9AD5-49D6-AFC5-24AEA2AAB41C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC4B0BA-9AD5-49D6-AFC5-24AEA2AAB41C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C519610B-93F8-437C-843A-CA7CB9CDDAA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C519610B-93F8-437C-843A-CA7CB9CDDAA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C519610B-93F8-437C-843A-CA7CB9CDDAA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C519610B-93F8-437C-843A-CA7CB9CDDAA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F0400A5-24EA-4337-B4BC-4CB91FA67A06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F0400A5-24EA-4337-B4BC-4CB91FA67A06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F0400A5-24EA-4337-B4BC-4CB91FA67A06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F0400A5-24EA-4337-B4BC-4CB91FA67A06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1748E268-37CC-4A9E-A3E3-8D6D4AD3C1F9}
+	EndGlobalSection
+EndGlobal
